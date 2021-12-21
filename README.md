@@ -2,8 +2,6 @@
 
 Neste jogo, dez países do mundo são sorteados aleatoriamente e a sua missão é colocá-los em ordem alfabética!
 
-![Jogo sendo executado](images/jogo.gif)
-
 # Índice
 - 1 - Como executar o jogo
 - 2 - Como compilar o código-fonte
